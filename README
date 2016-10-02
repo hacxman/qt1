@@ -1,4 +1,6 @@
-Shows empty window.
+=== Features ===
+* Shows one button and empty line edit.
+* Writes to line edit on click..
 
 This constitues barebone hsQT example using one resource file
 and UI file from QT Creator.
